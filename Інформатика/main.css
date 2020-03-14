@@ -1,0 +1,52 @@
+body {
+    background: #adb9ff;
+    display: block;
+    margin: 8px;
+    font-family: cursive;
+}
+main {
+    display: block;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 8%;
+    background-image: linear-gradient(to bottom right, rgb(173, 185, 255), rgb(173, 169, 255), rgb(173, 154, 255), rgb(174, 138, 255), rgb(174, 123, 255), rgb(174, 107, 255), rgb(162, 110, 255), rgb(150, 113, 255), rgb(138, 116, 255), rgb(126, 119, 255), rgb(114, 122, 255), rgb(102, 125, 255));
+}
+
+div {
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: azure;
+    font: italic bold;
+}
+img{
+    width: 100%;
+}
+nav{
+    font-size: 20px;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: flex-end;
+}
+p{
+    text-indent: 20px;
+    color: #F0F8FF;
+    font-color:	#F0FFFF;
+}
+h2{
+    text-align: center;
+    color: white;
+    text-shadow: 10px;
+}
+#first{
+    text-decoration: none;
+    color: darkslateblue;
+    font-family: cursive;
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+    margin-left: 80px;
+}
